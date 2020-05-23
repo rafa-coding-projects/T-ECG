@@ -1,6 +1,6 @@
 # T-ECG
-Repository for the work developed for the paper *[A Pipeline for Adaptive Filtering and Transformation of Noisy Left-Arm
-ECG to Its Surrogate Chest Signal]*(www.mdpi.com) to appear in MDPI Electronics.
+Repository for the work developed for the paper [*A Pipeline for Adaptive Filtering and Transformation of Noisy Left-Arm
+ECG to Its Surrogate Chest Signal*](www.mdpi.com) to appear in MDPI Electronics.
 
 If this code is useful for you, please consider citing our work:
 
