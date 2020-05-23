@@ -5,7 +5,7 @@ ECG to Its Surrogate Chest Signal*](www.mdpi.com) to appear in MDPI Electronics.
 If this code is useful for you, please consider citing our work:
 
 bibtex:
-'''
+```
 @article{Mohaddes2020,
 author = {Farzad Mohaddes and Rafael Luiz Da Silva and Fatma Patlar Akbulut and Yilu
 Zhou and Akhilesh Tanneeru and Edgar Lobaton and Bongmook Lee and Veena Misra},
@@ -17,4 +17,4 @@ year = {2020},
 number = {y},
 pages = {x--z}
 }
-'''
+```
